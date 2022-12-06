@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nitesh Kumar Shah</h1>
-<h3 align="center">I'm a Student at Indian Institute of Information technology, Allahabad</h3>
+<h3 align="center">I'm a Student, OpenSource Enthusiast and a Developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goasres&label=Profile%20views&color=0e75b6&style=flat" alt="goasres" /> </p>
 
 - 📫 How to reach me **goasres@gmail.com**
